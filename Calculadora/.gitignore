@@ -1,0 +1,52 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas generadas automáticamente
+/build
+/.gradle
+/captures
+/local.properties
+
+# Archivos de Android Studio
+.idea/
+*.iml
+
+# Archivos de compilación
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de configuración personal
+*.keystore
+.gradle/
+*.jks
+/signing.properties
+
+# Cache de lint
+lint/intermediates/
+lint/generated/
+
+# Configuración de Kotlin
+.kotlinc/
+
+# Archivos de test
+test-results/
+test-output/
+
+# Archivos de entorno o secretos
+.env
+*.env
+
+# Archivos generados por el emulador o device-specific
+*.hprof
+
+# Configuración de VSCode si lo usas
+.vscode/
